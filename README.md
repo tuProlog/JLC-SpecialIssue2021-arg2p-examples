@@ -6,7 +6,7 @@ This repository contains detailed instructions on how to run the examples form t
 
 In this part we will prepare the environment required to run all the examples.
 
-1. Install the [Java runtime] (https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot) (version **11** or above). If Java is already present on your system, you can skip this step.
+1. Install the [Java runtime](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot) (version **11** or above). If Java is already present on your system, you can skip this step.
 2. Download the stand-alone [Arg2P Java IDE](https://github.com/tuProlog/arg2p-kt/releases/download/0.5.0/arg2p-ide-0.5.0-redist.jar).
 3. If Java is correctly installed, with a double click on the file downloaded at step 2 (__arg2p-ide-0.5.0-redist.jar__), this should be the result.
 ![Arg2P IDE](images/arg2p.png)
